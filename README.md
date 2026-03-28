@@ -3,7 +3,7 @@
 ## Team Members
 - Nihala Thajudeen
 - Savin jees
-- Pavithra
+- Pavithra KM
 
 ## Course
 Predictive Analytics | Academic Year 2025-26
